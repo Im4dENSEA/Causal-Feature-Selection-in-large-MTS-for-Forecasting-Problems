@@ -1,0 +1,1 @@
+Multivariate time series (MTS) analysis project: selection and prediction. Study of variable selection and prediction algorithms, and their impact on performance. Exploration of relationships between variables and experimental results(In progress).
